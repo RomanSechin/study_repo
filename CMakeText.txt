@@ -1,5 +1,0 @@
-minimum_required(VERSION 3.13)
-
-add_project(HelloWorld)
-
-add_executable(HelloWorld main.cpp)
