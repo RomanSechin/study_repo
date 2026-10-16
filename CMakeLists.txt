@@ -4,3 +4,4 @@ project(cpp-training)
 set(CMAKE_CXX_STANDARD 20)
 
 add_subdirectory(preparation)
+add_subdirectory(base_cpp)
